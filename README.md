@@ -4,9 +4,9 @@
 
 A little about me:
 
-- 🔭 Currently in subsea surveying with a 10 year background in ROV operations.
-- 🌱 Interested in coding applications to bridge my interests of hardware with software.
-- Other interests include: 🔬3dPrinting, 📟MicroControllers, 📒PCB design & 🔧CAD design. 
+- 🌱 Interested in coding to bridge my interests of hardware with software.
+- Other interests include: 🔬3dPrinting, 📟MicroControllers, 📒PCB design & 🔧CAD design.
+- Background in subsea electronics and survey technology.
   
 - 📫 How to reach me: LinkedIn
 

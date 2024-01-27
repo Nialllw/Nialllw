@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me 👋
 
-<!--
-**Nialllw/Nialllw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little about me:
+
+- 🔭 Currently in subsea surveying with a 10 year background in ROV operations.
+- 🌱 Interested in coding applications to bridge my interests of hardware with software.
+- Other interests include: 🔬3dPrinting, 📟MicroControllers, 📒PCB design & 🔧CAD design. 
+  
+- 📫 How to reach me: LinkedIn
+
+
